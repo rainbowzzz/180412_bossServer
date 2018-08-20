@@ -3,12 +3,20 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/dist/routes/index.js" />
+        <item url="file://$PROJECT_DIR$/dist/socketIO/server_socket.js" />
+        <item url="file://$PROJECT_DIR$/dist/bin/www.js" />
         <item url="file://$PROJECT_DIR$/dist/db/models.js" />
+        <item url="file://$PROJECT_DIR$/dist/socketIO/text.js" />
+        <item url="file://$PROJECT_DIR$/dist/socketIO/test.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/dist/routes/index.js" />
+      <root url="file://$PROJECT_DIR$/dist/socketIO/server_socket.js" />
+      <root url="file://$PROJECT_DIR$/dist/bin/www.js" />
       <root url="file://$PROJECT_DIR$/dist/db/models.js" />
+      <root url="file://$PROJECT_DIR$/dist/socketIO/text.js" />
+      <root url="file://$PROJECT_DIR$/dist/socketIO/test.js" />
     </CLASSES>
     <SOURCES />
   </library>
